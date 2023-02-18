@@ -52,7 +52,7 @@ family.head.next = wife
 wife.next = firstChild
 firstChild.next = secondChild
 
-family.insertNewHeader("Dave")
+#family.insertNewHeader("Dave")
 
 #print(family.search("Bob"))
 family.deleteNode("Amy")
